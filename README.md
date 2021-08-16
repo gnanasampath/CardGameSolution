@@ -13,7 +13,7 @@ For Windows
 https://download.visualstudio.microsoft.com/download/pr/c6a860af-a0ec-44d9-95bb-27213e6ae584/f042477c51e9e274bc2df2b3936cc75d/dotnet-runtime-3.1.18-win-x86.exe
 
 
-Navigate to unit test project and run following commands
+Navigate to unit test project and run following commands to add dependencies
 
 1. dotnet add package MSTest.TestFramework
 
