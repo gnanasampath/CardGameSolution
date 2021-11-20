@@ -10,6 +10,7 @@ namespace CardGame
         public static int PlayerCount = 2;
         // Total number of cards available to play
         public static int TotalDeckSize = 40;
+        //New Test cases testing comment
         //Shows the default Player Name
         public static string DefaultPlayerName = "Player";
 
